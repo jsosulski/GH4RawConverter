@@ -16,10 +16,12 @@ The GH4 Raw files contain the model string "Panasonic-GH4" which makes it curren
 Two possibilities:
 
 First:
+
 1. Copy the executable jar to the directory in which your Raw files are located.
 2. Double-click the jar file to execute. This converts all .RW2 files in the current directory.
 
 Second:
+
 1. Open a terminal in the directory where the .jar file is located.
 2. Execute the .jar file with the path to the Raw files as a parameter, e.g.:
 
