@@ -1,3 +1,6 @@
+#Download
+[Converter as .jar](https://github.com/jsosulski/GH4RawConverter/blob/master/RawConverter.jar?raw=true)
+
 GH4RawConverter
 ===============
 
@@ -27,9 +30,6 @@ Second:
 
     `java -jar RawConverter.jar /path/to/your/rawfiles/`
 
-
-#Download
-[Converter as .jar](https://github.com/jsosulski/GH4RawConverter/blob/master/RawConverter.jar?raw=true)
 
 #Additional information
 This converter is meant as a temporary workaround to view the Raw files produced by the GH4. Do not use this converter after Lightroom provides inherent support for the GH4 Raw files. The converter is published under the MIT license.
